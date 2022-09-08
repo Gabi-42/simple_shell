@@ -87,7 +87,7 @@ int print_d(int input, int fd)
 
 /**
  * convert_number - converter function, a clone of itoa
- * @num; number
+ * @num: number
  * @base: base
  * @flags: argument flags
  *
